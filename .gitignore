@@ -1,0 +1,10 @@
+.DS_Store
+env_*.sh
+target/*
+**/temp/*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
